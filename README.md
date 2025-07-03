@@ -43,4 +43,7 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript that runs
 ## 🔗 Connect with Me
 
 👤 Omar Jeghalef  
-[LinkedIn](ht)
+[LinkedIn](https://www.linkedin.com/in/omarjeghalef)  
+[GitHub](https://github.com/omarjeghalef)  
+
+---
