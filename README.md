@@ -40,10 +40,9 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript that runs
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Connect With Me
 
-👤 Omar Jeghalef  
-[LinkedIn](https://www.linkedin.com/in/omarjeghalef)  
-[GitHub](https://github.com/omarjeghalef)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/omar-jeghalef)
+- 📧 [omarjeghalef05@gmail.com](mailto:omarjeghalef05@gmail.com)
 
 ---
